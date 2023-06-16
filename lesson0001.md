@@ -12,3 +12,5 @@ title: LPIC 1 - Lesson 1
 - where to configure the shell for a system-user
 - where is the bash-history located
 - when is the bash-history saved
+
+[HOME](./)
