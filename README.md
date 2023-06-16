@@ -14,3 +14,6 @@ Das ist meine persönliche Vorbereitung auf die LPIC 1 Zertifizierung. Ich gebe 
 - [https://www.lpi.org/our-certifications/exam-101-objectives](https://www.lpi.org/our-certifications/exam-101-objectives))
 - [https://www.lpi.org/our-certifications/exam-102-objectives](https://www.lpi.org/our-certifications/exam-102-objectives))
 
+## Inhaltsverzeichnis
+
+- [lesson0001](./lesson0001.html)
