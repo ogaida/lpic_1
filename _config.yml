@@ -1,0 +1,13 @@
+theme: jekyll-theme-cayman
+highlighter: rouge
+name: LPIC 1 Vorbereitung
+url: https://ogaida.github.io/lpic_1/
+
+gems:
+  -octopress-escape-code
+
+# like described here https://adam.garrett-harris.com/how-to-redirect-pages-in-jekyll/ ...
+collections:
+  redirects:
+    output: true
+    permalink: /:path/
