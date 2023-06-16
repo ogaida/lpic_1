@@ -19,5 +19,7 @@ title: LPIC 1 - Lesson 1
 - what means the option `-iname` in the `find` command
 - find the description for option `-p` in the `ssh` command
 - find the help for the command `alias`, tip: not via man 
+- what is the shell of the system-user `mail`
+- run a shell command with a fictitious password `echo abcYES123` and remove this command from your bash history
 
 [HOME](./)
