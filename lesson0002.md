@@ -21,7 +21,7 @@ set
 
 ### 1. variable without export
 
-- create a bash variable myname with you firstname as its value
+- create a bash variable myname with your firstname as its value
 - open a subshell with the command `bash`
 - run `echo $myname`, what output do you get?
 - run `env|grep myname`, what output do you get?
@@ -29,7 +29,7 @@ set
 
 ### 2. variable with export
 
-- create a bash variable myname with you firstname as its value
+- create a bash variable myname with your firstname as its value
 - export this variable
 - open a subshell with the command `bash`
 - run `echo $myname`, what output do you get?
