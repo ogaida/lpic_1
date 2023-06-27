@@ -17,3 +17,4 @@ Das ist meine persönliche Vorbereitung auf die LPIC 1 Zertifizierung. Ich gebe 
 ## Inhaltsverzeichnis
 
 - [lesson0001](./lesson0001.html)
+- [lesson0002](./lesson0002.html)
