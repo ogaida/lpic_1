@@ -1,5 +1,5 @@
 ---
-title: LPIC 1 - Lesson 3
+title: LPIC 1 - Lesson 4 - Shell Quoting
 ---
 
 # {{ page.title }}
