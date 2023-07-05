@@ -18,6 +18,6 @@ unalias
 ```
 
 
-[HOME][https://ogaida.github.io/lpic_1/README.html]
+[HOME](https://ogaida.github.io/lpic_1/README.html)
 
 [def]: ./
