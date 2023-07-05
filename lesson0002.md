@@ -45,4 +45,4 @@ set
 - disable `noglob` option with the `set` command
 
 
-[HOME](./)
+[HOME](https://ogaida.github.io/lpic_1/README.html)

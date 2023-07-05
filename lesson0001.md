@@ -22,4 +22,4 @@ title: LPIC 1 - Lesson 1
 - what is the shell of the system-user `mail`
 - run a shell command with a fictitious password `echo abcYES123` and remove this command from your bash history
 
-[HOME](./)
+[HOME](https://ogaida.github.io/lpic_1/README.html)

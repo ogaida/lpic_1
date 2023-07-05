@@ -26,4 +26,4 @@ Please go through each subtopic an practise.
 Source: [Quoting (Bash Reference Manual)](https://www.gnu.org/software/bash/manual/html_node/Quoting.html)
 
 
-[HOME](./)
+[HOME](https://ogaida.github.io/lpic_1/README.html)
