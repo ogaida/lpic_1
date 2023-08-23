@@ -20,7 +20,7 @@ There are three quoting mechanisms: the _escape character_, single quotes, and d
 -   [ANSI-C Quoting](https://www.gnu.org/software/bash/manual/html_node/ANSI_002dC-Quoting.html)
 -   [Locale-Specific Translation](https://www.gnu.org/software/bash/manual/html_node/Locale-Translation.html)
 
-Please go through each subtopic an practise.
+Please go through each subtopic and practise.
 
 
 Source: [Quoting (Bash Reference Manual)](https://www.gnu.org/software/bash/manual/html_node/Quoting.html)
