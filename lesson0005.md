@@ -10,27 +10,29 @@ Send text files and output streams through text utility filters to modify the ou
 
 The following is a partial list of the used files, terms and utilities:
 
--    bzcat
+-    wc - done
 -    cat
 -    cut
 -    head
 -    less
--    md5sum
 -    nl - extend your textfile with linenumbers [examples on geeksforgeeks](https://www.geeksforgeeks.org/nl-command-in-linux-with-examples/)
--    od
+    - `seq 3|paste -s -d ';'`
+-    od - octal dump of any file https://www.geeksforgeeks.org/od-command-linux-example/
 -    paste is used to join textfiles horizontally [examples on geeksforgeeks](https://www.geeksforgeeks.org/paste-command-in-linux-with-examples/)
--    sed
--    sha256sum
--    sha512sum
+    - `cat hostnames |paste -s -d '|'`
+-    tr
+    - `echo '3-2-1'|tr - /`
+-    sed, see https://www.gnu.org/software/sed/manual/sed.html
 -    sort
 -    split
 -    tail
--    tr
 -    uniq
--    wc
 -    xzcat
 -    zcat
-
+-    bzcat
+-    sha256sum
+-    sha512sum
+-    md5sum
 
 ## exercises
 
