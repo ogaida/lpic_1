@@ -21,3 +21,4 @@ Das ist meine persönliche Vorbereitung auf die LPIC 1 Zertifizierung. Ich gebe 
 - [lesson 3 - 103.1](./lesson0003.html)
 - [lesson 4 - 103.1 - Shell Quoting](./lesson0004.html)
 - [lesson 5 - 103.2](./lesson0005.html)
+- [lesson 6 - 103.5](./lesson0006.html)
